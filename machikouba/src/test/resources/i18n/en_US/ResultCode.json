@@ -1,0 +1,8 @@
+{
+  "enumName": "ResultCode",
+  "resources": {
+    "CODE1": "MSG1",
+    "CODE2": "MSG2",
+    "CODE3": "MSG3"
+  }
+}

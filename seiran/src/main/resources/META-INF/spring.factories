@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.nozomi.jikkenkichi.seiran.SeiranScanner,\
+org.nozomi.jikkenkichi.seiran.SeiranAspect,\
+org.nozomi.jikkenkichi.seiran.SeiranHttpClientPool
