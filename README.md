@@ -90,3 +90,5 @@
 	![image](https://user-images.githubusercontent.com/6937669/112725796-f24ba280-8f54-11eb-82ba-408446e8ba1c.png)
 
 	We can never get the right response from "/wrong-path",so use it to make simple tests. After the threshold is reached, it will be temporarily and automatically deactivated. After the recovery time is reached, it will be enabled again. Since no further strategy implementation is done, this process will keep cycling.
+	![image](https://user-images.githubusercontent.com/6937669/112725920-a0efe300-8f55-11eb-8e8a-5a5fcc138a07.png)
+	In this demo, the break is method-dimensional, so other methods are not affected.
