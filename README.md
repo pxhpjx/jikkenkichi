@@ -1,5 +1,3 @@
-	The project is first described here in plain text, more detailed information will come soon.
-
 # Introduction
 
 ## 🔧machikouba(foundation toolset)
@@ -28,7 +26,8 @@
 
 
 ## ✈️Seiran(Zookeeper-based "Spring Cloud + feign"-like light framework)
-	As a single-function package, the spring.factories is used directly so that it takes effect directly and automatically at startup.
+	As a single-function package, 
+	the spring.factories is used directly so that it takes effect directly and automatically at startup.
 ### Features
 
 -	Service registration and discovery
@@ -40,7 +39,6 @@
 -	Simplified service-to-service calls resolution
 
 ### A brief note on the code and how it is used
-	(some images are on the way)
 ##### Code description (detailed than above)
  
 1. Let's look at all the dependencies used throughout the project(for easy viewing,dependencies exists only in the main project's pom). As an experimental project, try to use more of my own implementation and less dependencies.
